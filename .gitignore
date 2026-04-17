@@ -1,0 +1,6 @@
+node_modules/
+out/
+*.pyc
+__pycache__/
+public/*.wav
+public/*.mp3
